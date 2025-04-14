@@ -1,5 +1,5 @@
 print('Working | 100%')
-getgenv().Host = 'hVky1nLorPmn'
+getgenv().Host = 'Kontr0zt'
 local Whitelist = {Host, 'qqq'}
 
 -- Add Discord webhook URLs here
